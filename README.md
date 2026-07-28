@@ -87,4 +87,4 @@ Here is a look at BestGSI-Core in action.
 
 Need help, want to report a bug, or just want to stay updated on the latest builds and patches? Join our official community!
 
-**[Join the Telegram Support Group](https://t.me/amintumgsibuilds)**
+**[Join the Telegram Support Group](https://t.me/amintumgsi)**
