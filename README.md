@@ -1,4 +1,6 @@
 # BestGSI
+<img width="454" height="165" alt="image" src="https://github.com/user-attachments/assets/aadd70db-0b40-4ae9-a60d-e551f9dca7e0" />
+
 ![Android Version](https://img.shields.io/badge/Android-16-3DDC84?style=for-the-badge&logo=android)
 ![Architecture](https://img.shields.io/badge/Architecture-arm64--ab-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)
