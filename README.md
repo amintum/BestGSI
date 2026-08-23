@@ -4,28 +4,19 @@
 ![Architecture](https://img.shields.io/badge/Architecture-arm64--ab-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)
 
-BestGSI-Core has Zero Bloat, giving users freedom to use what they want
+BestGSI has Zero Bloat, giving users freedom to use what they want
 
 This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliamson`](https://github.com/cawilliamson/restlessos), which itself is a fork of **GrapheneOS** packaged as a GSI. BestGSI-Core takes that secure, privacy-respecting foundation and strips it down to the absolute bare essentials, giving you complete control over your device.
 
-# BestGSI-Core Release Variants
+# BestGSI Release Variants
 
-* **BestGSICore_Droidify_defaultfont.img.xz:** 
+* **BestGSI_Droidify.img.xz:** 
   * Settings + files + Droidify
-  * Default system font
 
-* **BestGSICore_Droidify_newfont.img.xz:** 
-  * Settings + files + Droidify
-  * New system font
-
-* **BestGSICore_GAppsStore_defaultfont.img.xz:** 
+* **BestGSI_GAppsStore.img.xz:** 
   * Settings + files + store to download GApps
-  * Default system font
 
-* **BestGSICore_GAppsStore_newfont.img.xz:** 
-  * Settings + files + store to download GApps
-  * New system font
-
+ 
 ## ✨ Key Features
 *   **Zero Bloatware:** We believe in user choice. BestGSI-Core comes with a strictly minimal app drawer. There are no pre-installed browser trackers, unwanted system tools, or forced services. You get a clean slate to download and install exactly what *you* want.
 *   **Custom Default Wallpaper:** Unlike the upstream RestlessOS which boots to a pitch-black background, BestGSI-Core ships with a beautiful, pre-configured default wallpaper out of the box for a better first-boot experience.
