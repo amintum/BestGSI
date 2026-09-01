@@ -128,7 +128,7 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
       <img src="https://github.com/user-attachments/assets/8c87bdf8-788a-4e0f-ae6f-23e8f7afa3fd"" width="250" /><br>
       <b>BestGSI Exclusive Settings 2</b>
     </td>
- <td align="center">
+    <td align="center">
       <img src="https://github.com/user-attachments/assets/505d7091-7710-446e-b44f-c2f3eaf8eaeb"" width="250" /><br>
       <b>System Information</b>
     </td>
