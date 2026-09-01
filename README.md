@@ -79,11 +79,6 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 
 ## 📸 Screenshots
 
-
-
-<img width="411" height="1280" alt="image" src="" />
-
-
 <table>
   <tr>
     <td align="center">
