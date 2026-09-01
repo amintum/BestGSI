@@ -17,29 +17,96 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
   * Settings + files + store to download GApps
 
  
-## ✨ Key Features
-*   **Zero Bloatware:** We believe in user choice. BestGSI-Core comes with a strictly minimal app drawer. There are no pre-installed browser trackers, unwanted system tools, or forced services. You get a clean slate to download and install exactly what *you* want.
+# ⚡ BestGSI — Key Features
+
+A lightweight, privacy-hardened, and cyberpunk-styled Android GSI crafted for maximum freedom, performance, and user control.
+
+---
+
+## ✨ Core Highlights & System Experience
+*   **Zero Bloatware:** We believe in user choice. BestGSI comes with a strictly minimal app drawer. There are no pre-installed browser trackers, unwanted system tools, or forced services. You get a clean slate to download and install exactly what *you* want.
 *   **Custom Default Wallpaper:** Unlike the upstream RestlessOS which boots to a pitch-black background, BestGSI-Core ships with a beautiful, pre-configured default wallpaper out of the box for a better first-boot experience.
-*   **Dynamic System Update (DSU) Ready:** Fully compatible with Android's DSU feature. You can easily boot this image alongside your host OS for safe, seamless testing.
-*   **Modern Android Base:** Built on Android 16 with Material You theming support.
-*  Security update has date of January 5, 2027, to ensure smooth installation and **bypass rollback protections**. Actual patch is June 2026 same as restless.
+*   **Default Dark Mode on Boot** 
+*   **100% Brightness on Boot:** Clean, high-visibility display output right from first startup.
+*   **Cleaner UI:** Removed the drag/pill bar from the notification panel and launcher for a truly unobstructed edge-to-edge view.
+*   **Silent Developer Mode:** Completely removed the persistent *"USB Debugging Connected"* notification popup.
+
+---
+
+## 🎛️ Quick Settings & Audio Controls
+*   **Dedicated Cyber HUD Volume Quick Settings Tile:**
+    *   One-tap access to an interactive volume panel with a smoked obsidian glass backdrop and glowing Cyber Cyan accents.
+    *   **Continuous 0%–100% Smooth Sliders:** Fluid, high-precision adjustment for Media, Ring & Notifications, Calls, and Alarm without chunky step intervals.
+    *   **1-Tap Quick-Mute (`[🔇]`):** Instantly mute any audio stream to 0% and tap again to restore the previous volume level.
+    *   **Sound Profile Chips:** Quick-switch buttons for `[ SOUND ]`, `[ VIBRATE ]`, and `[ SILENT ]`.
+*   **New Data SIM Quick Switcher Tile:**
+    *   Added a 1-tap **Data SIM Switcher Tile** for Dual-SIM devices to switch active mobile data between **SIM 1** and **SIM 2** in under 100ms directly from your status bar.
+*   **Transparent QS Panel:** Sleek, modern translucent blur backdrop for the Quick Settings and notification shade.
+*   **Curated 12-Tile Default Layout:**
+    *   `Internet` • `Bluetooth` • `Volume` • `Dark Mode` • `Airplane` • `Flashlight` • `Hotspot` • `Screen Record` • `Auto-Rotate` • `Location` • `Font Scaling` • `Data SIM Switcher`
+
+---
+
+## 📱 Launcher, Widgets & Home Screen
+*   **Live Cyber Clock HUD Widget:**
+    *   Pre-placed by default across the top row of the Home Screen on first boot.
+    *   **Zero-Latency Hardware Clock:** Powered by native hardware `TextClock` RemoteViews for live seconds and full calendar date tracking with zero battery drain.
+    *   **3-Column Live Telemetry:** Real-time **Battery % + Charging Indicator**, **RAM %**, and **Storage %** with refined **3.8dp** glowing Cyber Cyan progress bars.
+    *   **Tight Ribbon Profile:** Fits cleanly across 4-column and 5-column grids with zero wasted touch space.
+*   **Redesigned Lock Screen Clock:** Streamlined and modernized lock screen clock typography.
+*   **Transparent App Drawer & Recents:** Beautiful translucent glass aesthetic for the launcher app drawer, clean search bar, and recent apps task switcher.
+
+---
+
+## 🛡️ Core System, Privacy & Freedom
+*   **Complete `FLAG_SECURE` Bypass:**
+    *   Removed screenshot, screen recording, casting, and mirroring restrictions across the entire operating system.
+    *   Capture screenshots and record video seamlessly inside banking apps, Telegram secret chats, and DRM-protected media without black screens.
+*   **Universal App Downgrade Support:**
+    *   Package downgrade protection bypassed at the framework level; install older APK versions directly over newer installed versions without uninstalling or losing application data.
+*   **Legacy App Warning Suppressed:**
+    *   Completely eliminated the annoying *"This app was built for an older version of Android"* warning popup when launching older or classic applications.
+
+---
+
+## ⚙️ BestGSI Exclusive Settings
+*(Prominently featured at the top of the main Android Settings page)*
+
+*   **Freeform & Multi-Window:** 1-tap toggles to enable desktop-style freeform floating windows and resizable split-screen multitasking.
+*   **Fast Animations Toggle:** Boost UI responsiveness with pre-tuned fast window and transition animation presets.
+*   **Real-Time Network Speed Meter:** Live status bar upstream/downstream data transfer speed indicator with dynamic units (KB/s & MB/s).
+*   **Font Engine (30+ Integrated Fonts):** Live typography font previews and system-wide font switching *(Note: limited functionality depending on vendor overlay support)*.
+*   **Status Bar Clock Seconds & Battery % Toggles:** Easily customize status bar clock seconds and fine-tune the battery percentage display format.
+*   **In-App Browser & Community Hub:** Built-in manifesto, fast in-app web browser, direct Telegram/GitHub community links, and QR support.
+*   **Clean System Status View:** Real-time hardware telemetry dashboard displaying RAM usage, Storage capacity, Kernel version, and SELinux status.
+
+---
+
+## 👆 Gestures & Hardware Device Support
+*   **Universal Double Tap to Sleep (DT2S):** Supported across all devices on both the status bar and lockscreen.
+*   **Double Tap to Wake (DT2W) for Transsion Devices:**
+    *   **Path to enable:** `Settings` → `System` → `TrebleDroid Settings` → `Transsion Settings` → `Enable DT2W`.
+
 
 ## 📸 Screenshots
 
-Here is a look at BestGSI-Core in action.
+
+
+<img width="411" height="1280" alt="image" src="" />
+
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/6f7f630f-3198-48ea-b1b2-15cbbbf20c19" width="250" /><br>
+      <img src="https://github.com/user-attachments/assets/03c29b33-e939-4d96-b3e9-e196b76c77d2" width="250" /><br>
       <b>Lock Screen</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/45f67742-fd0f-40d9-adb5-92e528982af0" width="250" /><br>
+      <img src="https://github.com/user-attachments/assets/400341af-9908-4d6b-a37a-dcb1d8c284b4" width="250" /><br>
       <b>Home Screen</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/33845324-4310-4a54-be2c-a69f8b83b3d8" width="250" /><br>
+      <img src="https://github.com/user-attachments/assets/2068d025-d84b-4c65-a6fd-2eff0450ae88" width="250" /><br>
       <b>Quick Settings</b>
     </td>
   </tr>
@@ -48,16 +115,38 @@ Here is a look at BestGSI-Core in action.
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/4cc85e41-a52b-4604-ad00-e468c9f1c3e3" width="250" /><br>
-      <b>DSU Notification</b>
+      <img src="https://github.com/user-attachments/assets/c5783ca9-a6e1-42a4-8a0c-24159abe5aa1" width="250" /><br>
+      <b>Notifications</b>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/2f7c0f15-7d9a-4dad-aa57-baf2cf0d4497" width="250" /><br>
-      <b>App Drawer</b>
+      <b>App Drawer/Launcher</b>
+    </td>
+   <td align="center">
+      <img src="https://github.com/user-attachments/assets/a683139c-c90c-4a7a-a85c-98669f84ed91" width="250" /><br>
+      <b>Recents/Background Application Window</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/c25ebf63-e357-4fbc-80cd-68fbb3a88f14"" width="250" /><br>
+      <img src="https://github.com/user-attachments/assets/505d7091-7710-446e-b44f-c2f3eaf8eaeb"" width="250" /><br>
       <b>System Information</b>
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1a22a538-830a-494d-a00a-799496159aec" width="250" /><br>
+      <b>Settings</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3dda259b-97fd-4193-b07c-285dfd9681c7" width="250" /><br>
+      <b>BestGSI Exclusive Settings 1</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8c87bdf8-788a-4e0f-ae6f-23e8f7afa3fd"" width="250" /><br>
+      <b>BestGSI Exclusive Settings 2</b>
     </td>
   </tr>
 </table>
