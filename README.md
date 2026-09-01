@@ -66,9 +66,9 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 
 # ⚡ BestGSI — Key Features
 
-## ✨ Core Highlights & System Experience
+## ✨ Highlights & System Experience
 *   **Zero Bloatware:** We believe in user choice. BestGSI comes with a strictly minimal app drawer. There are no pre-installed browser trackers, unwanted system tools, or forced services. You get a clean slate to download and install exactly what *you* want.
-*   **Custom Default Wallpaper:** Unlike the upstream RestlessOS which boots to a pitch-black background, BestGSI-Core ships with a beautiful, pre-configured default wallpaper out of the box for a better first-boot experience.
+*   **Custom Default Wallpaper:** Unlike the upstream RestlessOS which boots to a pitch-black background, BestGSI- ships with a beautiful, pre-configured default wallpaper out of the box for a better first-boot experience.
 
 ## 🎛️ Quick Settings & Audio Controls
 
@@ -109,7 +109,7 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 
 ---
 
-## 🛡️ Core System, Privacy & Freedom
+## 🛡️ System, Privacy & Freedom
 
 * **Complete `FLAG_SECURE` Bypass:**
   * System-wide removal of screenshot, screen recording, casting, and mirroring restrictions.
@@ -170,7 +170,7 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 
 ---
 
-## 🛡️ Core System, Privacy & Freedom
+## 🛡️  System, Privacy & Freedom
 *   **Complete `FLAG_SECURE` Bypass:**
     *   Removed screenshot, screen recording, casting, and mirroring restrictions across the entire operating system.
     *   Capture screenshots and record video seamlessly inside banking apps, Telegram secret chats, and DRM-protected media without black screens.
