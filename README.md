@@ -62,15 +62,6 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/505d7091-7710-446e-b44f-c2f3eaf8eaeb"" width="250" /><br>
-      <b>System Information</b>
-    </td>
-  </tr>
-</table>
-
 ---
 
 # ⚡ BestGSI — Key Features
