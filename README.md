@@ -109,11 +109,6 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
    <td align="center">
       <img src="https://github.com/user-attachments/assets/a683139c-c90c-4a7a-a85c-98669f84ed91" width="250" /><br>
       <b>Recents/Background Application Window</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/505d7091-7710-446e-b44f-c2f3eaf8eaeb"" width="250" /><br>
-      <b>System Information</b>
-    </td>
   </tr>
 </table>
 
@@ -123,6 +118,11 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
     <td align="center">
       <img src="https://github.com/user-attachments/assets/1a22a538-830a-494d-a00a-799496159aec" width="250" /><br>
       <b>Settings</b>
+    </td>
+       </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/505d7091-7710-446e-b44f-c2f3eaf8eaeb"" width="250" /><br>
+      <b>System Information</b>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/3dda259b-97fd-4193-b07c-285dfd9681c7" width="250" /><br>
