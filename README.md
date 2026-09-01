@@ -6,7 +6,7 @@
 
 BestGSI has Zero Bloat, giving users freedom to use what they want
 
-This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliamson`](https://github.com/cawilliamson/restlessos), which itself is a fork of **GrapheneOS** packaged as a GSI. BestGSI-Core takes that secure, privacy-respecting foundation and strips it down to the absolute bare essentials, giving you complete control over your device.
+This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliamson`](https://github.com/cawilliamson/restlessos), which itself is a fork of **GrapheneOS** packaged as a GSI. BestGSI takes that secure, privacy-respecting foundation and strips it down to the absolute bare essentials, giving you complete control over your device.
 
 ## 📸 Screenshots
 
