@@ -7,19 +7,8 @@
 BestGSI has Zero Bloat, giving users freedom to use what they want
 
 This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliamson`](https://github.com/cawilliamson/restlessos), which itself is a fork of **GrapheneOS** packaged as a GSI. BestGSI-Core takes that secure, privacy-respecting foundation and strips it down to the absolute bare essentials, giving you complete control over your device.
-
-# BestGSI Release Variants
-
-* **BestGSI_Droidify.img.xz:** 
-  * Settings + files + Droidify
-
-* **BestGSI_GAppsStore.img.xz:** 
-  * Settings + files + store to download GApps
-
  
 # ⚡ BestGSI — Key Features
-
-A lightweight, privacy-hardened, and cyberpunk-styled Android GSI crafted for maximum freedom, performance, and user control.
 
 ---
 
@@ -119,7 +108,7 @@ A lightweight, privacy-hardened, and cyberpunk-styled Android GSI crafted for ma
       <b>Notifications</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/2f7c0f15-7d9a-4dad-aa57-baf2cf0d4497" width="250" /><br>
+      <img src="https://github.com/user-attachments/assets/631e41ec-6a71-49a0-8ba0-79375cff57ba" width="250" /><br>
       <b>App Drawer/Launcher</b>
     </td>
    <td align="center">
