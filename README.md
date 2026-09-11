@@ -205,6 +205,7 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 
 *   **Christopher A. Williamson (`cawilliamson`):** For the incredible work on [RestlessOS](https://github.com/cawilliamson/treble_restlessos) and the Treble patching logic.
 *   **GrapheneOS:** The upstream foundation for this privacy and security-focused OS.
+*   **Walts P** for the beautiful wallpaper art. [Pixiv](https://www.pixiv.net/en/users/30082663) , [Instagram](https://www.instagram.com/walts_p7/) , [X](https://x.com/walts_p7)
 
 ---
 
