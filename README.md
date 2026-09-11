@@ -230,5 +230,5 @@ even release source code.
 
 Need help, want to report a bug, or just want to stay updated on the latest builds and patches? Join our official community!
 
-**[Join Discord](https://discord.gg/Ndjj4WNh3)**
+**[Join Discord](https://discord.gg/4y2KWRcVT)**
 
