@@ -216,6 +216,7 @@ to it by editing the stuff inside it, You are free to audit the image files.
 
 Perhaps, You should ask for source code to other developers who build GSIs from source code and doesn't 
 even release source code.
+
 ---
 
 ### Flashing Guide 
