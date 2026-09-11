@@ -213,7 +213,7 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 Let me be honest with you. There is no source code because even I haven't built this from source code,
 I took the precompiled [RestlessOS](https://github.com/cawilliamson/treble_restlessos) and made changes
 to it by editing the stuff inside it, You are free to audit the image files.
-I don't have financial resources required for server costs to build from source code.
+ I don't have financial resources required for server costs to build from source code.
 In future, if I start building from source code, I will definitely upload it.
 
 Perhaps, You should ask for source code to some other developer who build GSIs from source code and doesn't 
