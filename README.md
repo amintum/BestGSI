@@ -232,4 +232,3 @@ Need help, want to report a bug, or just want to stay updated on the latest buil
 
 **[Join Discord](https://discord.gg/Ndjj4WNh3)**
 
-**[Join the Telegram Support Group](https://t.me/amintumgsi)**
