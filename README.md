@@ -210,8 +210,12 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 
 ## Looking for Source Code ? 
 
-[**Read This**](https://github.com/amintum/BestGSI/issues/5#issuecomment-5565537101) Thank You.
+Let me be honest with you. There is no source code because even I haven't built this from source code,
+I took the precompiled [RestlessOS](https://github.com/cawilliamson/treble_restlessos) and made changes
+to it by editing the stuff inside it, You are free to audit the image files.
 
+Perhaps, You should ask for source code to other developers who build GSIs from source code and doesn't 
+even release source code.
 ---
 
 ### Flashing Guide 
