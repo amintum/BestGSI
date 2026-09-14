@@ -217,9 +217,6 @@ to it by editing the stuff inside it, You are free to audit the image files.
  I don't have financial resources required for server costs to build from source code.
 In future, if I start building from source code, I will definitely upload it.
 
-Perhaps, You should ask for source code to some other developer who build GSIs from source code and doesn't 
-even release source code.
-
 ---
 
 ### Flashing Guide 
