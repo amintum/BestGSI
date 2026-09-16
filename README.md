@@ -8,62 +8,6 @@ BestGSI has Zero Bloat, giving users freedom to use what they want
 
 This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliamson`](https://github.com/cawilliamson/treble_restlessos), which itself is a fork of **GrapheneOS** packaged as a GSI. BestGSI takes that secure, privacy-respecting foundation and strips it down to the absolute bare essentials, giving you complete control over your device.
 
-## 📸 Screenshots
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/03c29b33-e939-4d96-b3e9-e196b76c77d2" width="250" /><br>
-      <b>Lock Screen</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/400341af-9908-4d6b-a37a-dcb1d8c284b4" width="250" /><br>
-      <b>Home Screen</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/2068d025-d84b-4c65-a6fd-2eff0450ae88" width="250" /><br>
-      <b>Quick Settings</b>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/c5783ca9-a6e1-42a4-8a0c-24159abe5aa1" width="250" /><br>
-      <b>Notifications</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/631e41ec-6a71-49a0-8ba0-79375cff57ba" width="250" /><br>
-      <b>App Drawer/Launcher</b>
-    </td>
-   <td align="center">
-      <img src="https://github.com/user-attachments/assets/a683139c-c90c-4a7a-a85c-98669f84ed91" width="250" /><br>
-      <b>Recents/Background Application Window</b>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/1a22a538-830a-494d-a00a-799496159aec" width="250" /><br>
-      <b>Settings</b>
-    </td>
-       </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/3dda259b-97fd-4193-b07c-285dfd9681c7" width="250" /><br>
-      <b>BestGSI Exclusive Settings 1</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/8c87bdf8-788a-4e0f-ae6f-23e8f7afa3fd"" width="250" /><br>
-      <b>BestGSI Exclusive Settings 2</b>
-    </td>
-  </tr>
-</table>
-
----
-
 # ⚡ BestGSI — Key Features
 
 ## ✨ Highlights & System Experience
@@ -233,3 +177,59 @@ Need help, want to report a bug, or just want to stay updated on the latest buil
 
 **[Join Discord](https://discord.gg/4y2KWRcVT)**
 
+
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/03c29b33-e939-4d96-b3e9-e196b76c77d2" width="250" /><br>
+      <b>Lock Screen</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/400341af-9908-4d6b-a37a-dcb1d8c284b4" width="250" /><br>
+      <b>Home Screen</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2068d025-d84b-4c65-a6fd-2eff0450ae88" width="250" /><br>
+      <b>Quick Settings</b>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c5783ca9-a6e1-42a4-8a0c-24159abe5aa1" width="250" /><br>
+      <b>Notifications</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/631e41ec-6a71-49a0-8ba0-79375cff57ba" width="250" /><br>
+      <b>App Drawer/Launcher</b>
+    </td>
+   <td align="center">
+      <img src="https://github.com/user-attachments/assets/a683139c-c90c-4a7a-a85c-98669f84ed91" width="250" /><br>
+      <b>Recents/Background Application Window</b>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1a22a538-830a-494d-a00a-799496159aec" width="250" /><br>
+      <b>Settings</b>
+    </td>
+       </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3dda259b-97fd-4193-b07c-285dfd9681c7" width="250" /><br>
+      <b>BestGSI Exclusive Settings 1</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8c87bdf8-788a-4e0f-ae6f-23e8f7afa3fd"" width="250" /><br>
+      <b>BestGSI Exclusive Settings 2</b>
+    </td>
+  </tr>
+</table>
+
+---
