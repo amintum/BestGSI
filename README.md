@@ -70,6 +70,10 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 *   **Zero Bloatware:** We believe in user choice. BestGSI comes with a strictly minimal app drawer. There are no pre-installed browser trackers, unwanted system tools, or forced services. You get a clean slate to download and install exactly what *you* want.
 *   **Custom Default Wallpaper:** Unlike the upstream RestlessOS which boots to a pitch-black background, BestGSI- ships with a beautiful, pre-configured default wallpaper out of the box for a better first-boot experience.
 
+## GrapheneOS DURESS PIN Feature:
+
+**Setting this pin, during an undexpected/authoritative situation, putting this pin instead of actual lock screen pin, destroys the device data and keep you safe.**
+
 ## 🎛️ Quick Settings & Audio Controls
 
 * **Dedicated Volume Quick Settings Tile:** Quick volume adjustment directly from the QS panel.  
