@@ -16,7 +16,7 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 
 ## GrapheneOS DURESS PIN Feature:
 
-**Setting this pin, during an undexpected/authoritative situation, putting this pin instead of actual lock screen pin, destroys the device data and keep you safe.**
+**Setting this pin, during an unexpected/authoritative situation, putting this pin instead of actual lock screen pin, destroys the device data and keep you safe.**
 
 ## 🎛️ Quick Settings & Audio Controls
 
