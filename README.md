@@ -11,7 +11,8 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 ---
 ## **Help me improve BestGSI:** Drop your feedback in our 100% anonymous, no-login form (takes ~2 mins): [Here](https://anonymeter.com/f/pdkyjuraxv)
 ---
-# ⚡ BestGSI — Key Features
+
+## ⚡ BestGSI — Key Features
 
 ## ✨ Highlights & System Experience
 *   **Zero Bloatware:** We believe in user choice. BestGSI comes with a strictly minimal app drawer. There are no pre-installed browser trackers, unwanted system tools, or forced services. You get a clean slate to download and install exactly what *you* want.
