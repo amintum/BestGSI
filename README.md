@@ -9,8 +9,6 @@ BestGSI has Zero Bloat, giving users freedom to use what they want
 This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliamson`](https://github.com/cawilliamson/treble_restlessos), which itself is a fork of **GrapheneOS** packaged as a GSI. BestGSI takes that secure, privacy-respecting foundation and strips it down to the absolute bare essentials, giving you complete control over your device.
 
 ---
-## **Help me improve BestGSI:** Drop your feedback in our 100% anonymous, no-login form (takes ~2 mins): [Here](https://anonymeter.com/f/pdkyjuraxv)
----
 
 ## ⚡ BestGSI — Key Features
 
@@ -24,13 +22,12 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 
 ## 🎛️ Quick Settings & Audio Controls
 
-* **Dedicated Volume Quick Settings Tile:** Quick volume adjustment directly from the QS panel.  
-  ↳ *[Open-Sourced Repo](https://github.com/amintum/VolumeTile)*
+* **Dedicated Volume Slider** 
 
-* **Data SIM Quick Switcher Tile:** 1-tap **Data SIM Switcher Tile** for Dual SIM devices.  
-  ↳ *[Open-Sourced Repo](https://github.com/amintum/DataSimTile)*
+* **Data Connection Tile:** Turn data ON/OFF AND Change Data Sim with Double Tap
+  ↳ *[Open-Sourced Repo](https://github.com/amintum/MobileDataTile)*
 
-* **Transparent QS Panel:** Sleek, translucent glass effect across the notification shade.
+* **Transparent QS Panel:** Sleek, translucent glass effect across the notification shade with Choice to Change back to Solid Background
 
 * **Optimized 12-Tile Default Layout:**  
   `Internet` • `Bluetooth` • `Volume` • `Dark/Light Mode` • `Airplane` • `Torch` • `Hotspot` • `ScreenRec` • `Rotation` • `Location` • `FontSize` • `DataSim Switcher`
@@ -55,8 +52,7 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 
 * **Custom Launcher3 QuickStep:**  
   ↳ *[Open-Sourced Repo](https://github.com/amintum/Launcher3QuickStep)*
-  * **Transparent App Drawer & Recents:** Translucent glass background for the app drawer and recent apps overview.
-  * **Cyberpunk Searchbar:** Clean transparent search bar with cyber-styled accent borders.
+  * **Transparent App Drawer & Recents:** Translucent glass background for the app drawer and recent apps overview with choice to Bring back Solid Background back.
   * **Pill Bar Removed:** Eliminated the top pill indicator bar above the launcher search bar.
 
 ---
