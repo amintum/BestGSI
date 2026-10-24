@@ -1,4 +1,4 @@
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/21aff85d-df2c-4b6b-a1e5-5daa595e76c8" />
+<img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/21aff85d-df2c-4b6b-a1e5-5daa595e76c8" />
 
 ![Android Version](https://img.shields.io/badge/Android-16-3DDC84?style=for-the-badge&logo=android)
 ![Architecture](https://img.shields.io/badge/Architecture-arm64--ab-blue?style=for-the-badge)
