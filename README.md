@@ -149,6 +149,21 @@ Need help, want to report a bug, or just want to stay updated on the latest buil
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
+      <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/bootanimation1.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/bootanimation1.png" width="340" height="496" alt="BootAnimation 1" /></a><br/>
+      <b>BootAnimation 1</b><br/>
+      <sub>Custom cyber terminal startup animation displaying system initialization and RLOS core</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/bootanimation2.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/bootanimation2.png" width="340" height="496" alt="BootAnimation 2" /></a><br/>
+      <b>BootAnimation 2</b><br/>
+      <sub>Custom cyber splash logo displaying BestGSI branding, ARM64-AB architecture and developer credit</sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/LockScreen.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/LockScreen.png" width="340" /></a><br/>
       <b>Refined Lock Screen</b><br/>
       <sub>Ambient clock, system indicators, and refreshed wallpaper layout</sub>
@@ -232,21 +247,6 @@ Need help, want to report a bug, or just want to stay updated on the latest buil
       <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/BestGSISettings3.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/BestGSISettings3.png" width="340" /></a><br/>
       <b>System Font Selector</b><br/>
       <sub>System font switcher featuring 10+ custom font styles</sub>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/bootanimation1.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/bootanimation1.png" width="340" height="496" alt="BootAnimation 1" /></a><br/>
-      <b>BootAnimation 1</b><br/>
-      <sub>Custom cyber terminal startup animation displaying system initialization and RLOS core</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/bootanimation2.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/bootanimation2.png" width="340" height="496" alt="BootAnimation 2" /></a><br/>
-      <b>BootAnimation 2</b><br/>
-      <sub>Custom cyber splash logo displaying BestGSI branding, ARM64-AB architecture and developer credit</sub>
     </td>
   </tr>
 </table>
