@@ -8,6 +8,8 @@ BestGSI has Zero Bloat, giving users freedom to use what they want.
 
 This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliamson`](https://github.com/cawilliamson/treble_restlessos), which itself is a fork of **GrapheneOS** packaged as a GSI. BestGSI takes that secure, privacy-respecting foundation and strips it down to the absolute bare essentials, giving you complete control over your device.
 
+ > Scroll Down for ScreenShots
+
 ---
 
 ## ⚡ BestGSI — Key Features
@@ -139,59 +141,112 @@ In future, if I start building from source code, I will definitely upload it.
 
 Need help, want to report a bug, or just want to stay updated on the latest builds and patches? Join our official community!
 
-**[Join Discord](https://discord.gg/4y2KWRcVT)**
+**[Join Discord](https://discord.gg/k7qqcYate)**
 
 
 ## 📸 Screenshots
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/03c29b33-e939-4d96-b3e9-e196b76c77d2" width="250" /><br>
-      <b>Lock Screen</b>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/LockScreen.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/LockScreen.png" width="340" /></a><br/>
+      <b>Refined Lock Screen</b><br/>
+      <sub>Ambient clock, system indicators, and refreshed wallpaper layout</sub>
     </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/400341af-9908-4d6b-a37a-dcb1d8c284b4" width="250" /><br>
-      <b>Home Screen</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/2068d025-d84b-4c65-a6fd-2eff0450ae88" width="250" /><br>
-      <b>Quick Settings</b>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/Launcher1.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/Launcher1.png" width="340" /></a><br/>
+      <b>Homescreen & Wallpaper</b><br/>
+      <sub>Clean edge-to-edge UI layout without drag pill bar and double-tap to sleep</sub>
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/c5783ca9-a6e1-42a4-8a0c-24159abe5aa1" width="250" /><br>
-      <b>Notifications</b>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/Launcher4.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/Launcher4.png" width="340" /></a><br/>
+      <b>App Context Menu (Shortcuts)</b><br/>
+      <sub>Long-press shortcuts: Clone app (<code>userId 999</code>), 1-tap Share APK, and Uninstall</sub>
     </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/631e41ec-6a71-49a0-8ba0-79375cff57ba" width="250" /><br>
-      <b>App Drawer/Launcher</b>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/Launcher2.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/Launcher2.png" width="340" /></a><br/>
+      <b>App Drawer & Fast Search</b><br/>
+      <sub>Polished search bar styling with animated icon & solid drawer background support</sub>
     </td>
-   <td align="center">
-      <img src="https://github.com/user-attachments/assets/a683139c-c90c-4a7a-a85c-98669f84ed91" width="250" /><br>
-      <b>Recents/Background Application Window</b>
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/Launcher3.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/Launcher3.png" width="340" /></a><br/>
+      <b>Home Settings</b><br/>
+      <sub>Dedicated toggle to switch between solid and translucent app drawer background</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/QSPanel1.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/QSPanel1.png" width="340" /></a><br/>
+      <b>Dual Sliders & Ringer Switch</b><br/>
+      <sub>Side-by-side brightness & volume sliders with 3-state ringer toggle</sub>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/1a22a538-830a-494d-a00a-799496159aec" width="250" /><br>
-      <b>Settings</b>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/QSPanel2.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/QSPanel2.png" width="340" /></a><br/>
+      <b>Translucent Glass QS Shade</b><br/>
+      <sub>Frosted glass Quick Settings background with dynamic Monet wallpaper tint</sub>
     </td>
-       </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/3dda259b-97fd-4193-b07c-285dfd9681c7" width="250" /><br>
-      <b>BestGSI Exclusive Settings 1</b>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/QSPanel3.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/QSPanel3.png" width="340" /></a><br/>
+      <b>Dedicated Quick Settings Tiles</b><br/>
+      <sub>1-tap mobile data toggle, double-tap SIM switcher, and screenshot tile</sub>
     </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/8c87bdf8-788a-4e0f-ae6f-23e8f7afa3fd"" width="250" /><br>
-      <b>BestGSI Exclusive Settings 2</b>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/ScreenshotTileWindow.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/ScreenshotTileWindow.png" width="340" /></a><br/>
+      <b>Screenshot Tile Window Settings</b><br/>
+      <sub>Tile configuration window for status bar collapse behavior</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/BestGSISettings1.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/BestGSISettings1.png" width="340" /></a><br/>
+      <b>System Dashboard</b><br/>
+      <sub>Device specifications, Anti-DRM, and SELinux status indicators</sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/BestGSISettings2.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/BestGSISettings2.png" width="340" /></a><br/>
+      <b>Custom ROM Switches & Toggles</b><br/>
+      <sub>QS background toggle, 0.5x animations, and app downgrade permissions</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/BestGSISettings3.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/BestGSISettings3.png" width="340" /></a><br/>
+      <b>System Font Selector</b><br/>
+      <sub>System font switcher featuring 10+ custom font styles</sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/bootanimation1.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/bootanimation1.png" width="340" height="496" alt="BootAnimation 1" /></a><br/>
+      <b>BootAnimation 1</b><br/>
+      <sub>Custom cyber terminal startup animation displaying system initialization and RLOS core</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/bootanimation2.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/bootanimation2.png" width="340" height="496" alt="BootAnimation 2" /></a><br/>
+      <b>BootAnimation 2</b><br/>
+      <sub>Custom cyber splash logo displaying BestGSI branding, ARM64-AB architecture and developer credit</sub>
     </td>
   </tr>
 </table>
