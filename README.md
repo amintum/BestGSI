@@ -27,19 +27,11 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 ---
 
 ##  Quick Settings & Audio Controls
-
+**A newly Redesigned QS Panel ditching the AOSP panel design**
 * **Side-by-Side Brightness & Volume Sliders:** Brightness and Volume sliders sit next to each other for effortless one-handed control and rapid adjustments.
 * **Integrated 3-State Volume Switcher:** Tap the ringer icon inside the volume slider to cycle between **Sound (Ring)**, **Vibrate**, and **Silent** without reaching for the hardware volume rocker.
-* **Dedicated Cyber HUD Volume Quick Settings Tile:**
-  * One-tap access to an interactive volume panel with a smoked obsidian glass backdrop and glowing Cyber Cyan accents.
-  * **Continuous 0%–100% Smooth Sliders:** Fluid, high-precision adjustment for Media, Ring & Notifications, Calls, and Alarm without chunky step intervals.
-  * **1-Tap Quick-Mute (`[🔇]`):** Instantly mute any audio stream to 0%, tap again to restore the previous volume level.
-  * **Sound Profile Chips:** Quick-switch buttons for `[ SOUND ]`, `[ VIBRATE ]`, and `[ SILENT ]`.
 * **Mobile Data Tile:** Tap to turn mobile data ON/OFF straight from the Quick Settings shade. **Double-tap** to switch the active data SIM between **SIM 1** and **SIM 2** on dual-SIM devices, with no need to dive into system network settings.
   ↳ *[Open-Sourced Repo](https://github.com/amintum/MobileDataTile)*
-* **Data SIM Quick Switcher Tile:** Dedicated 1-tap tile for dual-SIM devices to switch active mobile data between **SIM 1** and **SIM 2** in under 100ms directly from your status bar.
-* **Screenshot Tile:** Instant, zero-lag 1-tap full-screen screenshot from your status bar. Long-press the tile to open its settings and choose whether the status bar collapses before capture or stays expanded so you can screenshot the Quick Settings panel itself.
-  ↳ *[Open-Sourced Repo](https://github.com/amintum/ScreenshotTile)*
 * **Transparent QS Panel:** Sleek, translucent glass/blur effect across the Quick Settings and notification shade, with a dedicated switch in **BestGSISettings** to change between transparent and solid background anytime.
 * **Cleaner UI:** Removed the drag/pill handle from the notification panel and launcher for a minimal, unobstructed view.
 * **100% Brightness on Boot:** Maximum display clarity right upon startup.
