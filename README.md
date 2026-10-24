@@ -179,7 +179,7 @@ Need help, want to report a bug, or just want to stay updated on the latest buil
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/Launcher4.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/Launcher4.png" width="340" /></a><br/>
       <b>App Context Menu (Shortcuts)</b><br/>
-      <sub>Long-press shortcuts: Clone app (<code>userId 999</code>), 1-tap Share APK, and Uninstall</sub>
+      <sub>Long-press shortcuts: Clone app, 1-tap Share APK, and Uninstall</sub>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/Launcher2.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/Launcher2.png" width="340" /></a><br/>
@@ -239,12 +239,10 @@ Need help, want to report a bug, or just want to stay updated on the latest buil
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/BestGSISettings2.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/BestGSISettings2.png" width="340" /></a><br/>
       <b>Custom ROM Switches & Toggles</b><br/>
-      <sub>QS background toggle, 0.5x animations, and app downgrade permissions</sub>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/amintum/BestGSI/blob/main/Screenshots/BestGSISettings3.png"><img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/BestGSISettings3.png" width="340" /></a><br/>
       <b>System Font Selector</b><br/>
-      <sub>System font switcher featuring 10+ custom font styles</sub>
     </td>
   </tr>
 </table>
