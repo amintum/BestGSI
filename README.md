@@ -4,7 +4,7 @@
 ![Architecture](https://img.shields.io/badge/Architecture-arm64--ab-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)
 
-BestGSI has Zero Bloat, giving users freedom to use what they want
+BestGSI has Zero Bloat, giving users freedom to use what they want.
 
 This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliamson`](https://github.com/cawilliamson/treble_restlessos), which itself is a fork of **GrapheneOS** packaged as a GSI. BestGSI takes that secure, privacy-respecting foundation and strips it down to the absolute bare essentials, giving you complete control over your device.
 
@@ -13,139 +13,113 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 ## ⚡ BestGSI — Key Features
 
 ## ✨ Highlights & System Experience
-*   **Zero Bloatware:** We believe in user choice. BestGSI comes with a strictly minimal app drawer. There are no pre-installed browser trackers, unwanted system tools, or forced services. You get a clean slate to download and install exactly what *you* want.
-*   **Custom Default Wallpaper:** Unlike the upstream RestlessOS which boots to a pitch-black background, BestGSI- ships with a beautiful, pre-configured default wallpaper out of the box for a better first-boot experience.
 
-## GrapheneOS DURESS PIN Feature:
+* **Zero Bloatware:** We believe in user choice. BestGSI comes with a strictly minimal app drawer. There are no unwanted system tools or forced services. The only extra is **TuffBrowser**, a tiny, privacy-focused browser, so you can get started right away. You get a clean slate to install exactly what *you* want.
+* **Pre-installed TuffBrowser:** Minimal, ultra-fast modern web browser under 2 MB with a built-in download manager.
+  ↳ *[Open-Sourced Repo](https://github.com/amintum/Tuff-Browser)*
+* **Custom Default Wallpaper:** Unlike upstream RestlessOS, which boots to a pitch-black background, BestGSI ships with a beautiful, pre-configured default wallpaper for a better first-boot experience.
+* **New Bootanimation:** Sleek, high-frame-rate startup animation replacing the legacy boot animation.
 
-**Setting this pin, during an unexpected/authoritative situation, putting this pin instead of actual lock screen pin, destroys the device data and keep you safe.**
+## GrapheneOS DURESS PIN Feature
 
-## 🎛️ Quick Settings & Audio Controls
+**Setting this PIN and entering it instead of your actual lock screen PIN during an unexpected or coercive situation destroys the device data and keeps you safe.**
 
-* **Dedicated Volume Slider** 
+---
 
-* **Data Connection Tile:** Turn data ON/OFF AND Change Data Sim with Double Tap
+##  Quick Settings & Audio Controls
+
+* **Side-by-Side Brightness & Volume Sliders:** Brightness and Volume sliders sit next to each other for effortless one-handed control and rapid adjustments.
+* **Integrated 3-State Volume Switcher:** Tap the ringer icon inside the volume slider to cycle between **Sound (Ring)**, **Vibrate**, and **Silent** without reaching for the hardware volume rocker.
+* **Dedicated Cyber HUD Volume Quick Settings Tile:**
+  * One-tap access to an interactive volume panel with a smoked obsidian glass backdrop and glowing Cyber Cyan accents.
+  * **Continuous 0%–100% Smooth Sliders:** Fluid, high-precision adjustment for Media, Ring & Notifications, Calls, and Alarm without chunky step intervals.
+  * **1-Tap Quick-Mute (`[🔇]`):** Instantly mute any audio stream to 0%, tap again to restore the previous volume level.
+  * **Sound Profile Chips:** Quick-switch buttons for `[ SOUND ]`, `[ VIBRATE ]`, and `[ SILENT ]`.
+* **Mobile Data Tile:** Tap to turn mobile data ON/OFF straight from the Quick Settings shade. **Double-tap** to switch the active data SIM between **SIM 1** and **SIM 2** on dual-SIM devices, with no need to dive into system network settings.
   ↳ *[Open-Sourced Repo](https://github.com/amintum/MobileDataTile)*
-
-* **Transparent QS Panel:** Sleek, translucent glass effect across the notification shade with Choice to Change back to Solid Background
-
-* **Optimized 12-Tile Default Layout:**  
-  `Internet` • `Bluetooth` • `Volume` • `Dark/Light Mode` • `Airplane` • `Torch` • `Hotspot` • `ScreenRec` • `Rotation` • `Location` • `FontSize` • `DataSim Switcher`
-
+* **Data SIM Quick Switcher Tile:** Dedicated 1-tap tile for dual-SIM devices to switch active mobile data between **SIM 1** and **SIM 2** in under 100ms directly from your status bar.
+* **Screenshot Tile:** Instant, zero-lag 1-tap full-screen screenshot from your status bar. Long-press the tile to open its settings and choose whether the status bar collapses before capture or stays expanded so you can screenshot the Quick Settings panel itself.
+  ↳ *[Open-Sourced Repo](https://github.com/amintum/ScreenshotTile)*
+* **Transparent QS Panel:** Sleek, translucent glass/blur effect across the Quick Settings and notification shade, with a dedicated switch in **BestGSISettings** to change between transparent and solid background anytime.
+* **Curated 12-Tile Default Layout:**
+  `Internet` • `Bluetooth` • `Volume` • `Dark/Light Mode` • `Airplane` • `Torch` • `Hotspot` • `Screen Record` • `Auto-Rotate` • `Location` • `Font Size` • `Data SIM Switcher`
 * **Cleaner UI:** Removed the drag/pill handle from the notification panel and launcher for a minimal, unobstructed view.
-
 * **100% Brightness on Boot:** Maximum display clarity right upon startup.
-
-* **Default Dark Mode on Boot:** Ships with Dark Theme enabled out-of-the-box.  
+* **Default Dark Mode on Boot:** Ships with Dark Theme enabled out of the box.
   ↳ *[Open-Sourced Repo](https://github.com/amintum/DarkModeOverlay)*
-
 * **Clean Status Shade:** Suppressed the persistent USB Debugging notification.
 
 ---
 
-## 📱 Launcher, Widgets & Home Screen
+##  Launcher, Widgets & Home Screen
 
-* **Live Cyber Clock HUD Widget:** Futuristic, live HUD clock widget placed directly on your home screen.  
+* **Live Cyber Clock HUD Widget:**
   ↳ *[Open-Sourced Repo](https://github.com/amintum/CyberClockHudWidget)*
-
-* **Custom Lock Screen Clock:** Redesigned aesthetic lock screen clock.
-
-* **Custom Launcher3 QuickStep:**  
+  * Pre-placed by default across the top row of the Home Screen on first boot.
+  * **Zero-Latency Hardware Clock:** Powered by native hardware `TextClock` RemoteViews for live seconds and full calendar date tracking with zero battery drain.
+  * **3-Column Live Telemetry:** Real-time **Battery % + Charging Indicator**, **RAM %**, and **Storage %** with refined **3.8dp** glowing Cyber Cyan progress bars.
+  * **Tight Ribbon Profile:** Fits cleanly across 4-column and 5-column grids with zero wasted touch space.
+* **Redesigned Lock Screen Clock:** Streamlined and modernized lock screen clock typography.
+* **Custom Launcher3 QuickStep:**
   ↳ *[Open-Sourced Repo](https://github.com/amintum/Launcher3QuickStep)*
-  * **Transparent App Drawer & Recents:** Translucent glass background for the app drawer and recent apps overview with choice to Bring back Solid Background back.
+  * **Transparent App Drawer & Recents:** Translucent glass background for the app drawer and recent apps overview. Bring back a solid app drawer background anytime: hold touch on the home screen → **Home Settings** → toggle **Solid app drawer background**.
+  * **Clone Apps (Dual Apps):** Run multiple accounts at once for social media, messaging, and gaming apps. Hold any app icon and select **Clone app** to create an isolated secondary profile instance.
+  * **Share Installed Apps:** Hold any app icon and tap **Share** to send the raw `.apk` file directly through Android's native share sheet.
+  * **Easy App Uninstallation:** Hold any app icon for an immediate **Uninstall** shortcut.
+  * **Search Bar Polish:** Updated app drawer search bar outline styling and smooth dynamic icon animations.
   * **Pill Bar Removed:** Eliminated the top pill indicator bar above the launcher search bar.
 
 ---
 
-## 🛡️ System, Privacy & Freedom
+##  System, Privacy & Freedom
 
-* **Complete `FLAG_SECURE` Bypass:**
-  * System-wide removal of screenshot, screen recording, casting, and mirroring restrictions.
+* **Complete `FLAG_SECURE` Bypass:(Anti-DRM)**
+  * Removed screenshot, screen recording, casting, and mirroring restrictions across the entire operating system.
   * Capture screenshots and screen recordings inside banking apps, Telegram secret chats, and DRM-protected streaming media without black screens.
-
 * **Universal App Downgrade Support:**
-  * Package downgrade protection bypassed by default—install older APK versions directly over newer installed versions without uninstalling or losing app data.
-
-* **Legacy App Dialog Suppressed:**
-  * Completely eliminated the *"This app was built for an older version of Android"* warning popup when launching older or classic apps.
-
----
-
-## ⚙️ BestGSI Exclusive Settings
-*(Integrated directly at the top of the device Settings page)*
-
-* **Freeform & Multi-Window:** 1-tap toggles to enable desktop-style freeform floating windows.
-* **Fast Animations Toggle:** Instantly boost UI responsiveness and transition speeds.
-* **Real-Time Network Speed Meter:** Live status bar upstream/downstream transfer speed indicator.
-* **Font Engine (30+ Integrated Fonts):** Live font previews and system-wide font switching *(limited functionality)*.
-* **Status Bar Clock Seconds & Battery % Toggles:** Easily customize status bar clock seconds and battery percentage style.
-* **In-App Browser & Community Hub:** Built-in manifesto, high-speed in-app web browser, direct Telegram/GitHub community links, and QR support.
-* **Clean System Status View:** Real-time hardware status metrics, including live RAM and storage usage.
+  * Package downgrade protection bypassed at the framework level. Install older APK versions directly over newer installed versions without uninstalling or losing app data.
+* **Legacy App Warning Suppressed:**
+  * Completely eliminated the *"This app was built for an older version of Android"* popup when launching older or classic apps.
 
 ---
 
-## 👆 Gestures & Hardware Device Support
-
-* **Universal Double Tap to Sleep (DT2S):** Works across all supported devices on both the status bar and lockscreen.
-
-* **Double Tap to Wake (DT2W) for Transsion Devices:**
-  * Native support for Infinix & Tecno devices.
-  * **Path to enable:**  
-    `Settings` → `System` → `TrebleDroid Settings` → `Transsion Settings` → `Enable DT2W`
-
-## 🎛️ Quick Settings & Audio Controls
-*   **Dedicated Cyber HUD Volume Quick Settings Tile:**
-    *   One-tap access to an interactive volume panel with a smoked obsidian glass backdrop and glowing Cyber Cyan accents.
-    *   **Continuous 0%–100% Smooth Sliders:** Fluid, high-precision adjustment for Media, Ring & Notifications, Calls, and Alarm without chunky step intervals.
-    *   **1-Tap Quick-Mute (`[🔇]`):** Instantly mute any audio stream to 0% and tap again to restore the previous volume level.
-    *   **Sound Profile Chips:** Quick-switch buttons for `[ SOUND ]`, `[ VIBRATE ]`, and `[ SILENT ]`.
-*   **New Data SIM Quick Switcher Tile:**
-    *   Added a 1-tap **Data SIM Switcher Tile** for Dual-SIM devices to switch active mobile data between **SIM 1** and **SIM 2** in under 100ms directly from your status bar.
-*   **Transparent QS Panel:** Sleek, modern translucent blur backdrop for the Quick Settings and notification shade.
-*   **Curated 12-Tile Default Layout:**
-    *   `Internet` • `Bluetooth` • `Volume` • `Dark Mode` • `Airplane` • `Flashlight` • `Hotspot` • `Screen Record` • `Auto-Rotate` • `Location` • `Font Scaling` • `Data SIM Switcher`
-
----
-
-## 📱 Launcher, Widgets & Home Screen
-*   **Live Cyber Clock HUD Widget:**
-    *   Pre-placed by default across the top row of the Home Screen on first boot.
-    *   **Zero-Latency Hardware Clock:** Powered by native hardware `TextClock` RemoteViews for live seconds and full calendar date tracking with zero battery drain.
-    *   **3-Column Live Telemetry:** Real-time **Battery % + Charging Indicator**, **RAM %**, and **Storage %** with refined **3.8dp** glowing Cyber Cyan progress bars.
-    *   **Tight Ribbon Profile:** Fits cleanly across 4-column and 5-column grids with zero wasted touch space.
-*   **Redesigned Lock Screen Clock:** Streamlined and modernized lock screen clock typography.
-*   **Transparent App Drawer & Recents:** Beautiful translucent glass aesthetic for the launcher app drawer, clean search bar, and recent apps task switcher.
-
----
-
-## 🛡️  System, Privacy & Freedom
-*   **Complete `FLAG_SECURE` Bypass:**
-    *   Removed screenshot, screen recording, casting, and mirroring restrictions across the entire operating system.
-    *   Capture screenshots and record video seamlessly inside banking apps, Telegram secret chats, and DRM-protected media without black screens.
-*   **Universal App Downgrade Support:**
-    *   Package downgrade protection bypassed at the framework level; install older APK versions directly over newer installed versions without uninstalling or losing application data.
-*   **Legacy App Warning Suppressed:**
-    *   Completely eliminated the annoying *"This app was built for an older version of Android"* warning popup when launching older or classic applications.
-
----
-
-## ⚙️ BestGSI Exclusive Settings
+##  BestGSI Exclusive Settings
 *(Prominently featured at the top of the main Android Settings page)*
 
-*   **Freeform & Multi-Window:** 1-tap toggles to enable desktop-style freeform floating windows and resizable split-screen multitasking.
-*   **Fast Animations Toggle:** Boost UI responsiveness with pre-tuned fast window and transition animation presets.
-*   **Real-Time Network Speed Meter:** Live status bar upstream/downstream data transfer speed indicator with dynamic units (KB/s & MB/s).
-*   **Font Engine (30+ Integrated Fonts):** Live typography font previews and system-wide font switching *(Note: limited functionality depending on vendor overlay support)*.
-*   **Status Bar Clock Seconds & Battery % Toggles:** Easily customize status bar clock seconds and fine-tune the battery percentage display format.
-*   **In-App Browser & Community Hub:** Built-in manifesto, fast in-app web browser, direct Telegram/GitHub community links, and QR support.
-*   **Clean System Status View:** Real-time hardware telemetry dashboard displaying RAM usage, Storage capacity, Kernel version, and SELinux status.
+* **Freeform & Multi-Window:** 1-tap toggles to enable desktop-style freeform floating windows and resizable split-screen multitasking.
+* **Fast Animations Toggle:** Boost UI responsiveness with pre-tuned fast window and transition animation presets.
+* **QS Panel Background Switch:** Switch between a transparent and a solid Quick Settings panel anytime.
+* **Real-Time Network Speed Meter:** Live status bar upstream/downstream transfer speed indicator with dynamic units (KB/s & MB/s).
+* **Font Engine (30+ Integrated Fonts):** Live font previews and system-wide font switching *(limited functionality depending on vendor overlay support)*.
+* **Status Bar Clock Seconds & Battery % Toggles:** Customize status bar clock seconds and fine-tune the battery percentage display format.
+* **In-App Browser & Community Hub:** Built-in manifesto, fast in-app web browser, direct Telegram/GitHub community links, and QR support.
+* **Clean System Status View:** Real-time hardware telemetry dashboard showing RAM usage, storage capacity, kernel version, and SELinux status.
 
 ---
 
-## 👆 Gestures & Hardware Device Support
-*   **Universal Double Tap to Sleep (DT2S):** Supported across all devices on both the status bar and lockscreen.
-*   **Double Tap to Wake (DT2W) for Transsion Devices:**
-    *   **Path to enable:** `Settings` → `System` → `TrebleDroid Settings` → `Transsion Settings` → `Enable DT2W`.
+##  Gestures & Hardware Device Support
+
+* **Universal Double Tap to Sleep (DT2S):** Supported across all devices on both the status bar and lockscreen.
+* **Double Tap to Wake (DT2W) for Transsion Devices:**
+  * Native support for Infinix & Tecno devices.
+  * **Path to enable:** `Settings` → `System` → `TrebleDroid Settings` → `Transsion Settings` → `Enable DT2W`
+
+---
+
+##  Variants & Choosing a Build
+
+* **GAppStore:** Ships with GrapheneOS App Store with GmsCompat, which lets you download and run Google Play Store & Services in a sandboxed environment.
+* **Vanilla**
+* **MicroG (beta):** Open-source alternative to Google services.
+
+Builds are provided per **VNDK version** (31 and above, 30, 29, 28). To find yours:
+
+* Install [Treble Info](https://gitlab.com/api/v4/projects/30453147/packages/generic/apk/5.2.3/TrebleInfo-free.apk), or
+* Run `adb shell getprop ro.vndk.version`
+
+>  **Do not guess.** A wrong build will bootloop your phone.
+
+First boot takes 3 to 4 minutes. This is normal.
 
 ---
 
@@ -153,7 +127,6 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 
 *   **Christopher A. Williamson (`cawilliamson`):** For the incredible work on [RestlessOS](https://github.com/cawilliamson/treble_restlessos) and the Treble patching logic.
 *   **GrapheneOS:** The upstream foundation for this privacy and security-focused OS.
-*   **Walts P** for the beautiful wallpaper art. [Pixiv](https://www.pixiv.net/en/users/30082663) , [Instagram](https://www.instagram.com/walts_p7/) , [X](https://x.com/walts_p7)
 
 ---
 
@@ -161,8 +134,9 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 
 Let me be honest with you. There is no source code because even I haven't built this from source code,
 I took the precompiled [RestlessOS](https://github.com/cawilliamson/treble_restlessos) and made changes
-to it by editing the stuff inside it, You are free to audit the image files.
- I don't have financial resources required for server costs to build from source code.
+to it by editing the stuff (meaning smali code patching) inside it, You are free to audit the image files and code.
+I do wherever possible make changes open-source as you can see.
+I don't have financial resources required for server costs to build from source code.
 In future, if I start building from source code, I will definitely upload it.
 
 ---
