@@ -41,8 +41,6 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 * **Screenshot Tile:** Instant, zero-lag 1-tap full-screen screenshot from your status bar. Long-press the tile to open its settings and choose whether the status bar collapses before capture or stays expanded so you can screenshot the Quick Settings panel itself.
   ↳ *[Open-Sourced Repo](https://github.com/amintum/ScreenshotTile)*
 * **Transparent QS Panel:** Sleek, translucent glass/blur effect across the Quick Settings and notification shade, with a dedicated switch in **BestGSISettings** to change between transparent and solid background anytime.
-* **Curated 12-Tile Default Layout:**
-  `Internet` • `Bluetooth` • `Volume` • `Dark/Light Mode` • `Airplane` • `Torch` • `Hotspot` • `Screen Record` • `Auto-Rotate` • `Location` • `Font Size` • `Data SIM Switcher`
 * **Cleaner UI:** Removed the drag/pill handle from the notification panel and launcher for a minimal, unobstructed view.
 * **100% Brightness on Boot:** Maximum display clarity right upon startup.
 * **Default Dark Mode on Boot:** Ships with Dark Theme enabled out of the box.
