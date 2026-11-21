@@ -1,6 +1,6 @@
 <img width="500" height="160" alt="image" src="https://github.com/user-attachments/assets/21aff85d-df2c-4b6b-a1e5-5daa595e76c8" />
 
-![Android Version](https://img.shields.io/badge/Android-16-3DDC84?style=for-the-badge&logo=android)
+![Android Version](https://img.shields.io/badge/Android-16-3DDC84?style=for-the-badge&logo=android) ![Android Version](https://img.shields.io/badge/Android-17-3DDC84?style=for-the-badge&logo=android)
 ![Architecture](https://img.shields.io/badge/Architecture-arm64--ab-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)
 
@@ -8,7 +8,16 @@ BestGSI has Zero Bloat, giving users freedom to use what they want.
 
 This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliamson`](https://github.com/cawilliamson/treble_restlessos), which itself is a fork of **GrapheneOS** packaged as a GSI. BestGSI takes that secure, privacy-respecting foundation and strips it down to the absolute bare essentials, giving you complete control over your device.
 
- > Scroll Down for ScreenShots
+<details>
+<summary><strong>Preview Video (click here to play) Android 17</strong></summary>
+
+<video src="https://github.com/user-attachments/assets/5a3f5d23-50bf-44b9-a905-fc3f0c0586e8" controls></video>
+
+*Note: CrystalPad app shown in recording is not included; it's an installed app for demonstration purposes.*
+
+</details>
+
+ > Scroll Down for ScreenShots (Android 16)
 
 ---
 
