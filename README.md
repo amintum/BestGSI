@@ -30,6 +30,8 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
   ↳ *[Open-Sourced Repo](https://github.com/amintum/Tuff-Browser)*
 * **Custom Default Wallpaper:** Unlike upstream RestlessOS, which boots to a pitch-black background, BestGSI ships with a beautiful, pre-configured default wallpaper for a better first-boot experience.
 * **New Bootanimation:** Sleek, high-frame-rate startup animation replacing the legacy boot animation.
+* **Best Edging Panel** : a new side panel/dock with quick shortcuts and freeform windows. Toggle it from the QS panel or explore more options in BestGSI Settings. [Open-source repo](https://github.com/amintum/BestEdgingPanel)
+* **Online wallpapers in Settings** integrated directly into your settings by modifying the Restless Wallpapers app to pull from a publically available source. [Repo](https://github.com/amintum/publicwallpapers)
 
 ## GrapheneOS DURESS PIN Feature
 
@@ -49,7 +51,6 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 * **Default Dark Mode on Boot:** Ships with Dark Theme enabled out of the box.
   ↳ *[Open-Sourced Repo](https://github.com/amintum/DarkModeOverlay)*
 * **Clean Status Shade:** Suppressed the persistent USB Debugging notification.
-
 ---
 
 ##  Launcher, Widgets & Home Screen
