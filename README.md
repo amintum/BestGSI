@@ -155,6 +155,45 @@ Need help, want to report a bug, or just want to stay updated on the latest buil
 
 
 ## 📸 Screenshots
+(Android 17 and 16)
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/lockscreen17.png" width="220"/><br/>
+      <sub>Lock Screen</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/screenshots%20(5).png" width="220"/><br/>
+      <sub>QS</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/screenshots%20(6).png" width="220"/><br/>
+      <sub>Launcher</sub>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/screenshot27.png" width="165"/><br/>
+      <sub>Best Edging Panel 1</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/screenshots%20(4).png" width="165"/><br/>
+      <sub>Best Edging Panel 2</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/screenshots%20(2).png" width="165"/><br/>
+      <sub>Best Edging Panel 3 (freeforms)</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/amintum/BestGSI/main/Screenshots/Screenshot%20(7).png" width="165"/><br/>
+      <sub>BestGSI Settings</sub>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
