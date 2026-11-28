@@ -9,12 +9,11 @@ BestGSI has Zero Bloat, giving users freedom to use what they want.
 This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliamson`](https://github.com/cawilliamson/treble_restlessos), which itself is a fork of **GrapheneOS** packaged as a GSI. BestGSI takes that secure, privacy-respecting foundation and strips it down to the absolute bare essentials, giving you complete control over your device.
 
 > [!IMPORTANT]
-> ### 🙌 Looking for Volunteer Contributors
+> ### 🙌 Looking for Contributors
 > We're looking for volunteers to help make **BestGSI** even better.
 > Everyone is welcome to contribute, even if you're new to coding ; bring your creativity and ideas to us.
 >
 > **[Open an issue](https://github.com/amintum/BestGSI/issues/new)** telling us what you can help with or what you'd like to improve/fix.
->
 > <sub>★ You will always get credit and mention on the main page and releases. Let's keep this project alive.</sub>
 
 **Scroll Down for Preview/ScreenShots** 
